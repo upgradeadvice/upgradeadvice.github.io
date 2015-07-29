@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>upgradeadvice</title>
+    <atom:link href="https://upgradeadvice.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>https://upgradeadvice.com</link>
+    <description>Facilitator of Creative Evolution.</description>
+    <pubDate>Tue, 28 Jul 2015 19:00:00 -0500</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Welcome</title>
+      <link>https://upgradeadvice.com/articles/hello-world/</link>
+      <pubDate>Tue, 28 Jul 2015 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://upgradeadvice.com/articles/hello-world/</guid>
+      <author></author>
+      <description>&lt;p&gt;Welcome to my new blog!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Need to chat? Find me on &lt;strong&gt;#monetaryunit&lt;/strong&gt; on freenode if you have any questions.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
